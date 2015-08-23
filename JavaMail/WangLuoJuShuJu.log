@@ -1,0 +1,348 @@
+=INFO  2015-08-15 13:38:09704 [com.forlink.http.ConfigService] [line:27] userInfo.ini中信息==={fPassWord=Sniper_7, from=singforlink@163.com, fUserName=singforlink@163.com}
+=INFO  2015-08-15 13:38:09704 [com.forlink.http.ConfigService] [line:27] userInfo.ini中信息==={fPassWord=Sniper_7, from=singforlink@163.com, fUserName=singforlink@163.com}
+=INFO  2015-08-15 13:38:09706 [com.forlink.http.ConfigService] [line:44] setTo.ini中信息===[2465501155@qq.com]
+=INFO  2015-08-15 13:38:09706 [com.forlink.http.ConfigService] [line:44] setTo.ini中信息===[2465501155@qq.com]
+=INFO  2015-08-15 13:38:09707 [com.forlink.http.ConfigService] [line:48] setCopy.ini中信息===[]
+=INFO  2015-08-15 13:38:09707 [com.forlink.http.ConfigService] [line:48] setCopy.ini中信息===[]
+=INFO  2015-08-15 13:38:09713 [com.forlink.http.SendMail] [line:83] 开始发送邮件...
+=INFO  2015-08-15 13:38:09713 [com.forlink.http.SendMail] [line:83] 开始发送邮件...
+=INFO  2015-08-15 13:38:1537 [com.forlink.http.SendMail] [line:85] 邮件发送成功...
+=INFO  2015-08-15 13:38:1537 [com.forlink.http.SendMail] [line:85] 邮件发送成功...
+=INFO  2015-08-15 13:52:04254 [com.z.http.ConfigService] [line:27] userInfo.ini中信息==={fPassWord=Sniper_7, from=singforlink@163.com, fUserName=singforlink@163.com}
+=INFO  2015-08-15 13:52:04254 [com.z.http.ConfigService] [line:27] userInfo.ini中信息==={fPassWord=Sniper_7, from=singforlink@163.com, fUserName=singforlink@163.com}
+=INFO  2015-08-15 13:52:04256 [com.z.http.ConfigService] [line:44] setTo.ini中信息===[2465501155@qq.com]
+=INFO  2015-08-15 13:52:04256 [com.z.http.ConfigService] [line:44] setTo.ini中信息===[2465501155@qq.com]
+=INFO  2015-08-15 13:52:04256 [com.z.http.ConfigService] [line:48] setCopy.ini中信息===[]
+=INFO  2015-08-15 13:52:04256 [com.z.http.ConfigService] [line:48] setCopy.ini中信息===[]
+=INFO  2015-08-15 13:52:04263 [com.z.http.SendMail] [line:64] 开始发送邮件...
+=INFO  2015-08-15 13:52:04263 [com.z.http.SendMail] [line:64] 开始发送邮件...
+=INFO  2015-08-15 13:52:05551 [com.z.http.SendMail] [line:71] 邮件发送成功...
+=INFO  2015-08-15 13:52:05551 [com.z.http.SendMail] [line:71] 邮件发送成功...
+=INFO  2015-08-15 14:03:23324 [com.z.http.ConfigService] [line:27] userInfo.ini中信息==={fPassWord=Sniper_7, from=singforlink@163.com, fUserName=singforlink@163.com}
+=INFO  2015-08-15 14:03:23324 [com.z.http.ConfigService] [line:27] userInfo.ini中信息==={fPassWord=Sniper_7, from=singforlink@163.com, fUserName=singforlink@163.com}
+=INFO  2015-08-15 14:03:23326 [com.z.http.ConfigService] [line:44] setTo.ini中信息===[2465501155@qq.com]
+=INFO  2015-08-15 14:03:23326 [com.z.http.ConfigService] [line:44] setTo.ini中信息===[2465501155@qq.com]
+=INFO  2015-08-15 14:03:23326 [com.z.http.ConfigService] [line:48] setCopy.ini中信息===[]
+=INFO  2015-08-15 14:03:23326 [com.z.http.ConfigService] [line:48] setCopy.ini中信息===[]
+=INFO  2015-08-15 14:03:23333 [com.z.http.SendMail] [line:64] 开始发送邮件...
+=INFO  2015-08-15 14:03:23333 [com.z.http.SendMail] [line:64] 开始发送邮件...
+=INFO  2015-08-15 14:03:24633 [com.z.http.SendMail] [line:71] 邮件发送成功...
+=INFO  2015-08-15 14:03:24633 [com.z.http.SendMail] [line:71] 邮件发送成功...
+=INFO  2015-08-15 15:31:39841 [com.z.http.ConfigService] [line:27] userInfo.ini中信息==={User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 15:31:39841 [com.z.http.ConfigService] [line:27] userInfo.ini中信息==={User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 15:31:39843 [com.z.http.ConfigService] [line:44] setTo.ini中信息===[2465501155@qq.com]
+=INFO  2015-08-15 15:31:39843 [com.z.http.ConfigService] [line:44] setTo.ini中信息===[2465501155@qq.com]
+=INFO  2015-08-15 15:31:39843 [com.z.http.ConfigService] [line:48] setCopy.ini中信息===[]
+=INFO  2015-08-15 15:31:39843 [com.z.http.ConfigService] [line:48] setCopy.ini中信息===[]
+=INFO  2015-08-15 15:31:39849 [com.z.http.SendMail] [line:64] 开始发送邮件...
+=INFO  2015-08-15 15:31:39849 [com.z.http.SendMail] [line:64] 开始发送邮件...
+=INFO  2015-08-15 15:31:41719 [com.z.http.SendMail] [line:71] 邮件发送成功...
+=INFO  2015-08-15 15:31:41719 [com.z.http.SendMail] [line:71] 邮件发送成功...
+=INFO  2015-08-15 15:50:20333 [com.z.http.ConfigService] [line:22] mail_from.ini:
+{User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 15:50:20333 [com.z.http.ConfigService] [line:22] mail_from.ini:
+{User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 15:50:20335 [com.z.http.ConfigService] [line:33] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 15:50:20335 [com.z.http.ConfigService] [line:33] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 15:50:20335 [com.z.http.ConfigService] [line:37] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 15:50:20335 [com.z.http.ConfigService] [line:37] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 15:50:20342 [com.z.http.SendMail] [line:61] 开始发送邮件...
+=INFO  2015-08-15 15:50:20342 [com.z.http.SendMail] [line:61] 开始发送邮件...
+=INFO  2015-08-15 15:50:21786 [com.z.http.SendMail] [line:68] 邮件发送成功...
+=INFO  2015-08-15 15:50:21786 [com.z.http.SendMail] [line:68] 邮件发送成功...
+=INFO  2015-08-15 16:00:57733 [com.z.mai.SendMail] [line:38] mail_from.ini:
+{User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 16:00:57733 [com.z.mai.SendMail] [line:38] mail_from.ini:
+{User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 16:00:57735 [com.z.mai.SendMail] [line:47] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:00:57735 [com.z.mai.SendMail] [line:47] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:00:57735 [com.z.mai.SendMail] [line:51] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:00:57735 [com.z.mai.SendMail] [line:51] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:00:57742 [com.z.mai.SendMail] [line:92] 开始发送邮件...
+=INFO  2015-08-15 16:00:57742 [com.z.mai.SendMail] [line:92] 开始发送邮件...
+=INFO  2015-08-15 16:01:00556 [com.z.mai.SendMail] [line:99] 邮件发送成功...
+=INFO  2015-08-15 16:01:00556 [com.z.mai.SendMail] [line:99] 邮件发送成功...
+=INFO  2015-08-15 16:06:54461 [com.z.mai.SendMail] [line:28] mail_from.ini:
+{User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 16:06:54461 [com.z.mai.SendMail] [line:28] mail_from.ini:
+{User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 16:06:54463 [com.z.mai.SendMail] [line:37] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:06:54463 [com.z.mai.SendMail] [line:37] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:06:54464 [com.z.mai.SendMail] [line:41] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:06:54464 [com.z.mai.SendMail] [line:41] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:06:54471 [com.z.mai.SendMail] [line:82] 开始发送邮件...
+=INFO  2015-08-15 16:06:54471 [com.z.mai.SendMail] [line:82] 开始发送邮件...
+=INFO  2015-08-15 16:06:5517 [com.z.mai.SendMail] [line:89] 邮件发送成功...
+=INFO  2015-08-15 16:06:5517 [com.z.mai.SendMail] [line:89] 邮件发送成功...
+=INFO  2015-08-15 16:20:13319 [com.z.mai.SendMail] [line:61] mail_from.ini:
+{User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 16:20:13319 [com.z.mai.SendMail] [line:61] mail_from.ini:
+{User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 16:20:13321 [com.z.mai.SendMail] [line:70] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:20:13321 [com.z.mai.SendMail] [line:70] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:20:13321 [com.z.mai.SendMail] [line:74] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:20:13321 [com.z.mai.SendMail] [line:74] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:20:13322 [com.z.mai.SendMail] [line:122] 开始发送邮件...
+=INFO  2015-08-15 16:20:13322 [com.z.mai.SendMail] [line:122] 开始发送邮件...
+=INFO  2015-08-15 16:20:15758 [com.z.mai.SendMail] [line:129] 邮件发送成功...
+=INFO  2015-08-15 16:20:15758 [com.z.mai.SendMail] [line:129] 邮件发送成功...
+=INFO  2015-08-15 16:29:2293 [com.z.mai.SendMail] [line:52] mail_from.ini:
+{User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 16:29:2293 [com.z.mai.SendMail] [line:52] mail_from.ini:
+{User=singforlink@163.com, Password=Sniper_7, Address=singforlink@163.com}
+=INFO  2015-08-15 16:29:2295 [com.z.mai.SendMail] [line:56] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:29:2295 [com.z.mai.SendMail] [line:56] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:29:2295 [com.z.mai.SendMail] [line:60] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:29:2295 [com.z.mai.SendMail] [line:60] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:29:2296 [com.z.mai.SendMail] [line:94] 开始发送邮件...
+=INFO  2015-08-15 16:29:2296 [com.z.mai.SendMail] [line:94] 开始发送邮件...
+=INFO  2015-08-15 16:29:29411 [com.z.mai.SendMail] [line:99] 邮件发送成功...
+=INFO  2015-08-15 16:29:29411 [com.z.mai.SendMail] [line:99] 邮件发送成功...
+=INFO  2015-08-15 16:49:28295 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 16:49:28295 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 16:49:28297 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:49:28297 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:49:28297 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:49:28297 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 16:49:28298 [com.z.mai.SendMail] [line:87] 开始发送邮件...
+=INFO  2015-08-15 16:49:28298 [com.z.mai.SendMail] [line:87] 开始发送邮件...
+=INFO  2015-08-15 16:49:32688 [com.z.mai.SendMail] [line:92] 邮件发送成功...
+=INFO  2015-08-15 16:49:32688 [com.z.mai.SendMail] [line:92] 邮件发送成功...
+=INFO  2015-08-15 17:53:32415 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 17:53:32415 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 17:53:32417 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 17:53:32417 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 17:53:32417 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 17:53:32417 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=ERROR 2015-08-15 17:53:32556 [com.z.mai.SendMail] [line:289] Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1922)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:638)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at com.z.mai.SendMail.sendMail(SendMail.java:164)
+	at com.z.mai.SendMail.main(SendMail.java:287)
+=ERROR 2015-08-15 17:53:32556 [com.z.mai.SendMail] [line:289] Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1922)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:638)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at com.z.mai.SendMail.sendMail(SendMail.java:164)
+	at com.z.mai.SendMail.main(SendMail.java:287)
+=INFO  2015-08-15 17:56:27847 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 17:56:27847 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 17:56:27849 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 17:56:27849 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 17:56:27849 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 17:56:27849 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=ERROR 2015-08-15 17:56:27952 [com.z.mai.SendMail] [line:289] Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1922)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:638)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at com.z.mai.SendMail.sendMail(SendMail.java:164)
+	at com.z.mai.SendMail.main(SendMail.java:287)
+=ERROR 2015-08-15 17:56:27952 [com.z.mai.SendMail] [line:289] Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1922)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:638)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at com.z.mai.SendMail.sendMail(SendMail.java:164)
+	at com.z.mai.SendMail.main(SendMail.java:287)
+=INFO  2015-08-15 18:08:06318 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:08:06318 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:08:06320 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 18:08:06320 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 18:08:06321 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 18:08:06321 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 18:08:06322 [com.z.mai.SendMail] [line:87] 开始发送邮件...
+=INFO  2015-08-15 18:08:06322 [com.z.mai.SendMail] [line:87] 开始发送邮件...
+=INFO  2015-08-15 18:08:06423 [com.z.mai.SendMail] [line:92] 邮件发送成功...
+=INFO  2015-08-15 18:08:06423 [com.z.mai.SendMail] [line:92] 邮件发送成功...
+=INFO  2015-08-15 18:10:30397 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:10:30397 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:10:30399 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 18:10:30399 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 18:10:30399 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 18:10:30399 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=ERROR 2015-08-15 18:10:30501 [com.z.mai.SendMail] [line:289] Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1922)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:638)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at com.z.mai.SendMail.sendMail(SendMail.java:164)
+	at com.z.mai.SendMail.main(SendMail.java:287)
+=ERROR 2015-08-15 18:10:30501 [com.z.mai.SendMail] [line:289] Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1922)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:638)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at com.z.mai.SendMail.sendMail(SendMail.java:164)
+	at com.z.mai.SendMail.main(SendMail.java:287)
+=INFO  2015-08-15 18:10:5546 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:10:5546 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:10:5548 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 18:10:5548 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 18:10:5548 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 18:10:5548 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[2465501155@qq.com]
+=INFO  2015-08-15 18:10:5550 [com.z.mai.SendMail] [line:87] 开始发送邮件...
+=INFO  2015-08-15 18:10:5550 [com.z.mai.SendMail] [line:87] 开始发送邮件...
+=INFO  2015-08-15 18:10:55152 [com.z.mai.SendMail] [line:92] 邮件发送成功...
+=INFO  2015-08-15 18:10:55152 [com.z.mai.SendMail] [line:92] 邮件发送成功...
+=INFO  2015-08-15 18:13:56357 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:13:56357 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:13:56360 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:13:56360 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:13:56360 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:13:56360 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
+=ERROR 2015-08-15 18:13:56467 [com.z.mai.SendMail] [line:289] Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1922)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:638)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at com.z.mai.SendMail.sendMail(SendMail.java:164)
+	at com.z.mai.SendMail.main(SendMail.java:287)
+=ERROR 2015-08-15 18:13:56467 [com.z.mai.SendMail] [line:289] Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1922)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:638)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at com.z.mai.SendMail.sendMail(SendMail.java:164)
+	at com.z.mai.SendMail.main(SendMail.java:287)
+=INFO  2015-08-15 18:15:25150 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:15:25150 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:15:25152 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:15:25152 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:15:25152 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:15:25152 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
+=ERROR 2015-08-15 18:15:25257 [com.z.mai.SendMail] [line:289] Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1922)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:638)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at com.z.mai.SendMail.sendMail(SendMail.java:164)
+	at com.z.mai.SendMail.main(SendMail.java:287)
+=ERROR 2015-08-15 18:15:25257 [com.z.mai.SendMail] [line:289] Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+javax.mail.MessagingException: Could not connect to SMTP host: smtp.163.com, port: 25, response: 554
+	at com.sun.mail.smtp.SMTPTransport.openServer(SMTPTransport.java:1922)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:638)
+	at javax.mail.Service.connect(Service.java:295)
+	at javax.mail.Service.connect(Service.java:176)
+	at com.z.mai.SendMail.sendMail(SendMail.java:164)
+	at com.z.mai.SendMail.main(SendMail.java:287)
+=INFO  2015-08-15 18:16:52913 [com.z.mai.SendMail] [line:52] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:16:52913 [com.z.mai.SendMail] [line:52] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:16:52915 [com.z.mai.SendMail] [line:56] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:16:52915 [com.z.mai.SendMail] [line:56] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:16:52916 [com.z.mai.SendMail] [line:60] mail_copy.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:16:52916 [com.z.mai.SendMail] [line:60] mail_copy.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:16:52917 [com.z.mai.SendMail] [line:94] 开始发送邮件...
+=INFO  2015-08-15 18:16:52917 [com.z.mai.SendMail] [line:94] 开始发送邮件...
+=INFO  2015-08-15 18:16:5317 [com.z.mai.SendMail] [line:99] 邮件发送成功...
+=INFO  2015-08-15 18:16:5317 [com.z.mai.SendMail] [line:99] 邮件发送成功...
+=INFO  2015-08-15 18:27:56862 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:27:56862 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:27:56864 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:27:56864 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:27:56864 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:27:56864 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:28:45490 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:28:45490 [com.z.mai.SendMail] [line:47] mail_from.ini:
+{User=singforlink@163.com, SMTP_Port=25, Password=Sniper_7, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false}
+=INFO  2015-08-15 18:28:45492 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:28:45492 [com.z.mai.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:28:45493 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
+=INFO  2015-08-15 18:28:45493 [com.z.mai.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
