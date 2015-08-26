@@ -1,0 +1,24 @@
+=INFO  2015-08-26 23:43:35655 [com.z.mail.SendMail] [line:47] mail_from.ini:
+{SMTP_Port=25, User=singforlink@163.com, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false, Password=Sniper_7}
+=INFO  2015-08-26 23:43:35655 [com.z.mail.SendMail] [line:47] mail_from.ini:
+{SMTP_Port=25, User=singforlink@163.com, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false, Password=Sniper_7}
+=INFO  2015-08-26 23:43:35677 [com.z.mail.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-26 23:43:35677 [com.z.mail.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-26 23:43:35678 [com.z.mail.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
+=INFO  2015-08-26 23:43:35678 [com.z.mail.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
+=INFO  2015-08-26 23:50:452 [com.z.mail.SendMail] [line:47] mail_from.ini:
+{SMTP_Port=25, User=singforlink@163.com, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false, Password=Sniper_7}
+=INFO  2015-08-26 23:50:452 [com.z.mail.SendMail] [line:47] mail_from.ini:
+{SMTP_Port=25, User=singforlink@163.com, Address=singforlink@163.com, SMTP_Host=smtp.163.com, Auth=false, Password=Sniper_7}
+=INFO  2015-08-26 23:50:454 [com.z.mail.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-26 23:50:454 [com.z.mail.SendMail] [line:51] mail_to.ini:
+[singforlink@163.com]
+=INFO  2015-08-26 23:50:454 [com.z.mail.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
+=INFO  2015-08-26 23:50:454 [com.z.mail.SendMail] [line:55] mail_copy.ini:
+[singforlink@163.com]
